@@ -1,6 +1,6 @@
 def position_taken?(board, index)
   if "#{board[0]} == "  " || """
-    then false
+     false
   else "#{board[0]}" == "X"
     end
 end
